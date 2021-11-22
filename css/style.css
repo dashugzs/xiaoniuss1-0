@@ -1,9 +1,9 @@
 @charset "utf-8";
 
 /*
-网址：https://xiandu.me
-github：https://github.com/xiandus/search
-                     XianDu�?020.1.6
+ç½‘å€ï¼šhttps://xiandu.me
+githubï¼šhttps://github.com/xiandus/search
+                     XianDuï¼?020.1.6
 */
 
 input::-webkit-input-placeholder{
@@ -27,7 +27,7 @@ body {
     overflow: hidden;
 }
 .bgo{
-	background: url(https://img.alicdn.com/imgextra/i1/2327995847/O1CN01ekK45p1t3yVVz3fx2_!!2327995847.jpg);
+	background: url(ceshi.html);
     background-size: cover;
     filter: brightness(0.9);
     width: 100%;
