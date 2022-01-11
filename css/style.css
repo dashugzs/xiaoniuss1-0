@@ -34,6 +34,14 @@ body {
     height: 100%;
     z-index: 1;
 }
+.bgo{
+	background: url(https://img.alicdn.com/imgextra/i1/2327995847/O1CN01ekK45p1t3yVVz3fx2_!!2327995847.jpg);
+    background-size: cover;
+    filter: brightness(0.9);
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+}
 
 html {
     font-family: 'Noto Sans SC Sliced', PingFangSC-Light, Microsoft YaHei UI, Microsoft YaHei, helvetica, sans-serif;
